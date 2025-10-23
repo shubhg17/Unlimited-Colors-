@@ -43,7 +43,7 @@ unlimited-colors/
 
 - 1️⃣ Clone the repository:
 ```
-git clone https://github.com/shubhg17/unlimited-colors.git
+git clone https://github.com/shubhg17/Unlimited-Colors-.git
 ```
 
 - 2️⃣ Navigate into the project folder:
