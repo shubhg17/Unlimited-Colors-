@@ -1,0 +1,12 @@
+body {
+   text-align:center;
+   font-family:Arial , Roboto;
+}
+
+button {
+   padding:20px 20px 20px 20px;
+   font-weight:bold;
+   background-color:red;
+   border:none;
+   margin-right:20px;
+}
